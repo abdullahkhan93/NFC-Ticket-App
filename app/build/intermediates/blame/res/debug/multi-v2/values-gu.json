@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "L:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Phillip\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\decf91738be9c4b716313811966e716a\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

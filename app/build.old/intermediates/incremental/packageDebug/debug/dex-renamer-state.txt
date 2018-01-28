@@ -1,0 +1,19 @@
+#Wed Dec 13 14:20:53 EET 2017
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51
+base.4=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\54
+base.3=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52
+base.2=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\55
+base.1=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\50
+base.0=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\53
+file.5=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51\\classes.dex
+file.4=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\54\\classes.dex
+file.3=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52\\classes.dex
+file.2=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\55\\classes.dex
+file.1=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\50\\classes.dex
+file.0=L\:\\uni\\NetSec\\Project2\\CS-E4300_ANDROID\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\53\\classes.dex

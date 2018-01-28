@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="L:\uni\NetSec\Project2\CS-E4300_ANDROID\app\src\main\assets"/><source path="L:\uni\NetSec\Project2\CS-E4300_ANDROID\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="L:\uni\NetSec\Project2\CS-E4300_ANDROID\app\src\debug\assets"/></dataSet></merger>
